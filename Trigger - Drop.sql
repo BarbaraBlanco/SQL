@@ -1,0 +1,1 @@
+drop trigger Z_para_W
